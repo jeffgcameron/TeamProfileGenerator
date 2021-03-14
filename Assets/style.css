@@ -1,6 +1,7 @@
 body {
     background-color: antiquewhite;
 }
+
 .head {
     height: 100px;
     line-height: 100px;
@@ -8,4 +9,14 @@ body {
     background-color: coral;
     color: antiquewhite;
     font-size: 25px;
+}
+
+.card {
+    display: block;
+    margin: auto;
+    margin-top: 32px;
+}
+
+.edu {
+    margin-bottom: 0;
 }
