@@ -15,9 +15,6 @@ Your task is to build a Node.js command-line application that takes in informati
 * [License](#license)
 
 
-* [Contribution](#contribution)
-
-
 * [Tests](#test)
 
 
